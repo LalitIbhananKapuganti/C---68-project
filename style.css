@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    z-index: 9;
+}
+
+#schoolname {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#e81515 0%,#bee815  100%);
+    display: table;
+    width: 100%;
+    z-index: 9;
+}
+
+#campuslife {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#00fff7 0%,#00ff59  100%);
+    display: table;
+    width: 100%;
+    z-index: 9;
+}
+
+#contact {
+    background-color: chocolate;
+}
+
+#contact_1 {
+    background-color: cyan;
+}
